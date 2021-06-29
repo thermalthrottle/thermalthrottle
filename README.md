@@ -11,7 +11,6 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=thermalthrottle&theme=tokyonight">
-<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thermalthrottle&show_icons=true&locale=en" alt="thermalthrottle" />
 </p>
 
