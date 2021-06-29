@@ -1,21 +1,20 @@
 <h1 align="center">Hi 👋, I'm Dimitar Todorov</h1>
 <h3 align="center">18 y/o CS student from Bulgaria</h3>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=thermalthrottle&theme=tokyonight">
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=thermalthrottle&show_icons=true&locale=en" alt="thermalthrottle" />
-</p>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thermalthrottle&label=Profile%20views&color=0e75b6&style=flat" alt="thermalthrottle" /> </p>
-
-
 
 - 🔭 I’m currently working on **Manjorno(currently private repo)**
 
 - 🌱 I’m currently learning **Express.JS,RESP APIs, MongoDB**
 
 - 📫 How to reach me **todorov03@protonmail.com**
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=thermalthrottle&theme=tokyonight">
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=thermalthrottle&show_icons=true&locale=en" alt="thermalthrottle" />
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
