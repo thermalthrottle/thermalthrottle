@@ -9,8 +9,10 @@
 
 - 📫 How to reach me **todorov03@protonmail.com**
 
+<p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thermalthrottle&theme=tokyonight">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thermalthrottle&show_icons=true&locale=en&layout=compact" alt="thermalthrottle" />
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
