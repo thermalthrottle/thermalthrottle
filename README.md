@@ -3,7 +3,7 @@
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thermalthrottle&theme=tokyonight">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thermalthrottle&show_icons=true&locale=en&layout=compact" alt="thermalthrottle" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thermalthrottle&show_icons=true&locale=en" alt="thermalthrottle" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thermalthrottle&label=Profile%20views&color=0e75b6&style=flat" alt="thermalthrottle" /> </p>
