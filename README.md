@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Manjorno(currently private repo)**
 
-- 🌱 I’m currently learning **Express.JS,REST APIs, MongoDB and Microservices**
+- 🌱 I’m currently learning **Express.JS,REST APIs, MongoDB and Microservices, Oauth**
 
 - 📫 How to reach me **todorov03@protonmail.com**
 
