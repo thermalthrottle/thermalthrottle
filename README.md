@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Manjorno(currently private repo)**
 
-- 🌱 I’m currently learning **Microservice Architecture and Oauth2.0 authentication**
+- 🌱 I’m currently learning **Microservice Architecture, Oauth2.0 Authentication and Kubernetes**
 
 - 📫 How to reach me **todorov03@protonmail.com**
 
