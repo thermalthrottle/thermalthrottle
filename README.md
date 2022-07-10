@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dimitar Todorov</h1>
-<h3 align="center">18 y/o CS student from Bulgaria</h3>
+<h3 align="center">19 y/o CS student from Bulgaria</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thermalthrottle&label=Profile%20views&color=0e75b6&style=flat" alt="thermalthrottle" /> </p>
 
-- 🔭 I’m currently working on **Manjorno(currently private repo)**
-
-- 🌱 I’m currently learning **Microservice Architecture, Oauth2.0 Authentication and Kubernetes**
+- 🔭 I’m currently working as Junior Data Ingestion Engineer
 
 - 📫 How to reach me **todorov03@protonmail.com**
 
