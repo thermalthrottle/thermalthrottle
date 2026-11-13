@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dimitar Todorov</h1>
-<h3 align="center">A 20 year old Data Engineer from Bulgaria</h3>
 
 - 📫 How to reach me **todorov03@protonmail.com**
 
